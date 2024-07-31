@@ -10,17 +10,17 @@ The project aims to predict tweet sentiment to help companies understand public 
 
 ## Table of Contents
 
-- Overview
-- Business Problem
-- Data Sources
-- Installation
-- Analysis and Results
-  - Model Creation
-  - Evaluation
-- Conclusion
-- Recommendations
-- Future Steps
-- Contact
+- [Overview](#overview)
+- [Business Problem](#business-problem)
+- [Data Sources](#data-sources)
+- [Installation](#installation)
+- [Analysis and Results](#analysis-and-results)
+    - [Model Creation](#model-creation)
+    - [Evaluation](#evaluation)
+- [Conclusion](#conclusion)
+- [Recommendations](#recommendations)
+- [Future Steps](#future-steps)
+- [Contact](#contact)
 
 ## Data Sources
 
@@ -53,11 +53,12 @@ Below is a scatterplot of each targeted company, along with the sum of all senti
 
 ### Model Creation
 
-Multiple machine learning models were developed using the tweet dataset. The models include:
+Multiple machine learning models were developed using the tweet dataset. GridSearchCV was used on all models for hyperparameter tuning. The models include:
 
 - Multinomial Naive Bayes (MultinomialNB)
 - Logistic Regression
 - Random Forest
+
 
 ### Evaluation
 
