@@ -24,7 +24,7 @@ The project aims to predict tweet sentiment to help companies understand public 
 
 ## Data Sources
 
-This [dataset](https://data.world/crowdflower/brands-and-product-emotions) contains over 9,000 tweets with the following attributes:
+This [dataset](https://data.world/crowdflower/brands-and-product-emotions) contains over 8,000 tweets with the following attributes:
 - **Targeted Company**: The company or brand mentioned in the tweet.
 - **Sentiment**: The sentiment expressed in the tweet, categorized as positive, neutral, or negative.
 
