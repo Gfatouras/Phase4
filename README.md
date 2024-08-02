@@ -1,5 +1,7 @@
 # Predicting Tweet Sentiment
 
+![image](https://github.com/user-attachments/assets/a6054446-d322-410f-b469-1d39f402cca9)
+
 ## Overview
 
 This repository contains the code and data used to analyze tweet sentiment. The primary goal of this project is to create machine learning models that can predict the sentiment of tweets, determining if they are positive, negative, or neutral. 
