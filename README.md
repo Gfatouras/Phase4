@@ -64,8 +64,17 @@ Multiple machine learning models were developed using the tweet dataset. GridSea
 
 Models were evaluated based on various metrics such as accuracy, confusion matrices, and ROC-AUC scores. Cross-validation and hyperparameter tuning techniques were employed to optimize model performance.
 
+
+**Base MultinomialNB Model**
+- No hyperparameter tuning
+- No class balancing
+  
+![image](https://github.com/user-attachments/assets/23994a06-11b2-4596-b295-a495ff6ec74e)
+![image](https://github.com/user-attachments/assets/f26e0d4e-288a-4038-97db-bb19835f401a)
+
+
 **Multi-Class MultinomialNB Model**:
-- Good at predicting negative tweets.
+- Good at predicting neutral tweets.
 - Struggled with distinguishing between positive and neutral tweets.
 
  ![image](https://github.com/user-attachments/assets/e8be6374-52fa-4b3c-aa26-26f04824093b)
