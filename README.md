@@ -1,5 +1,7 @@
 # Predicting Tweet Sentiment
 
+![image](https://github.com/user-attachments/assets/a6054446-d322-410f-b469-1d39f402cca9)
+
 ## Overview
 
 This repository contains the code and data used to analyze tweet sentiment. The primary goal of this project is to create machine learning models that can predict the sentiment of tweets, determining if they are positive, negative, or neutral. 
@@ -107,7 +109,8 @@ For companies looking to analyze tweet sentiment related to their brand, it is a
 - **Data Expansion**: Utilize larger and more balanced datasets to improve model accuracy.
 - **Human Rating**: Address potential issues with human-rated sentiment by incorporating more robust validation methods.
 - **Advanced Techniques**: Explore additional preprocessing and feature engineering techniques to enhance model performance.
-- **Implementing Term Models**: After identifying sentiment, additional models could be used to determine which terms are contributing to positive or negative sentiment. 
+- **Implementing Topic Models**: Adding additional models, like topic modeling, could be used along with the sentiment classifier to determine which features are responsible for the change in sentiment over time.
+ 
 
 ## Contact
 
