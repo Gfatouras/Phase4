@@ -109,7 +109,8 @@ For companies looking to analyze tweet sentiment related to their brand, it is a
 - **Data Expansion**: Utilize larger and more balanced datasets to improve model accuracy.
 - **Human Rating**: Address potential issues with human-rated sentiment by incorporating more robust validation methods.
 - **Advanced Techniques**: Explore additional preprocessing and feature engineering techniques to enhance model performance.
-- **Implementing Term Models**: After identifying sentiment, additional models could be used to determine which terms are contributing to positive or negative sentiment. 
+- **Implementing Topic Models**: Adding additional models, like topic modeling, could be used along with the sentiment classifier to determine which features are responsible for the change in sentiment over time.
+ 
 
 ## Contact
 
